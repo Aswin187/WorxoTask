@@ -1,0 +1,13 @@
+.appBar{
+    display: flex;
+    padding: 10px 50px;
+    background-color: whitesmoke;
+}
+
+.navbar{
+    width: 100%;
+    height: 40px;
+}
+.logo{
+    width: 100%;
+}

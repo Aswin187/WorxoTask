@@ -1,0 +1,29 @@
+.footer{
+    padding-top: 40px;
+    padding-left: 50px;
+    height: 550px;
+    background-color: rgb(6,51,114);
+    color: #fff;
+    font-family: "Poppins",sans-serif;
+}
+.text{
+    color: rgb(198, 212, 252)
+}
+.footer-image{
+    display: flex;
+    justify-content: flex-end;
+}
+.imgStyle{
+  
+    width: 150px;
+    height: 70px;
+}
+.buttonStyle{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.btn{
+    color: #fff !important;
+    justify-content: space-evenly;
+}
