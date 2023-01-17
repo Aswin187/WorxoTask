@@ -5,35 +5,35 @@ let type = [
   
   {
     name: "Commercial Shop",
-    url: "SecondHeader/commercial_space.cabcda3f.png",
+    url: "Headerimage/commercial_space.cabcda3f.png",
   },
   {
     name: "Commercial Office",
-    url: "SecondHeader/coworking.ae2d86ad.png",
+    url: "Headerimager/coworking.ae2d86ad.png",
   },
   {
     name: "Commercial Land",
-    url: "SecondHeader/land_lease.7ccc6444.png",
+    url: "Headerimager/land_lease.7ccc6444.png",
   },
   {
     name: "Commercial Building",
-    url: "SecondHeader/download.png",
+    url: "Headerimage/download.png",
   },
   {
     name: "Industrial Building",
-    url: "SecondHeader/building.png",
+    url: "Headerimage/building.png",
   },
   {
     name: "Coworking-space",
-    url: "SecondHeader/coworking.ae2d86ad.png",
+    url: "Headerimage/coworking.ae2d86ad.png",
   },
   {
     name: "Industrial Land",
-    url: "SecondHeader/land_lease.7ccc6444.png",
+    url: "Headerimage/land_lease.7ccc6444.png",
   },
   {
     name: "Meeting Room",
-    url: "SecondHeader/meeting-room.0b5c79ff.png",
+    url: "Headerimage/meeting-room.0b5c79ff.png",
   },
 ];
 
