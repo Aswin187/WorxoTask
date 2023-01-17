@@ -1,12 +1,12 @@
-import { Height } from '@mui/icons-material'
 import { Grid } from '@mui/material'
 import React from 'react'
+import "../Banner/Banner.css"
 
 
 const BannerTwo = () => {
   return (
-    <div >
-      <Grid container style={{ alignItems: 'center' }}>
+    <div>
+      <Grid className= "banner" container style={{ alignItems: 'center' }}>
         <img src='bannerTwo/Bannertwoimg.png' alt='two' style={{width:"100%"}}/>
         <Grid item xs={8}  >
           <img   src='bannerTwo/8OHYcD4EA5hpJqQgtQmNVfLrO0YXspuEDfseTmXX.png'  alt="" style={{width:"90%", height:"400px",marginLeft:'80px'}}/>

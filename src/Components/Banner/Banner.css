@@ -1,6 +1,10 @@
 *{
     margin: 0;
 }
+
+.banner,.property {
+    margin: 20px;
+}
 .images{
 
     background-image:url('office.27bb9079.jpg');

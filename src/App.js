@@ -6,6 +6,7 @@ import { NavBar } from "./Components/Navbar/NavBar";
 import axios from "axios";
 import PropertyContainer from './Components/propertyContainer'
 import FooterComponent from "./Components/Footer/FooterComponent";
+
 const url = "https://api.xentice.com/api/postadSelect";
 
 function App() {
