@@ -9,11 +9,11 @@ let type = [
   },
   {
     name: "Commercial Office",
-    url: "Headerimager/coworking.ae2d86ad.png",
+    url: "Headerimage/coworking.ae2d86ad.png",
   },
   {
     name: "Commercial Land",
-    url: "Headerimager/land_lease.7ccc6444.png",
+    url: "Headerimage/land_lease.7ccc6444.png",
   },
   {
     name: "Commercial Building",
